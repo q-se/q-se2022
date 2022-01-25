@@ -148,6 +148,6 @@ adhering to this policy.
 
 ## Important Dates
 
-- Paper Submissions Deadline: January 14, 2022 AoE
+- Paper Submissions Deadline: January ~~14~~ 21, 2022 AoE
 - Acceptance Notification: February 25, 2022 AoE
 - Camera Ready Deadline: March 18, 2022 AoE
