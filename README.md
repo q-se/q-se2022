@@ -1,5 +1,7 @@
 # 3rd International Workshop on Quantum Software Engineering (Q-SE)
 
+**Q-SE 2022 will be held virtually via Zoom for participants!**
+
 Quantum computers promise to solve unthinkably complex problems that traditional
 computers could ever solve.  The evidence of such quantum supremacy over
 traditional computers has started to emerge as it can be seen by Google's
@@ -47,10 +49,7 @@ engineering through developing a special interest group.
 ### Workshop Attendance
 
 If a submission is accepted, at least one author of the paper is required to
-register for Q-SE 2022 and present the paper. _We will add more info on this as
-soon as the ICSE/Q-SE 2022 format is finalized._
-
-Authors and participants must register through the main conference website: [Registration for ICSE 2022](https://conf.researchr.org/attending/icse-2022/registration).
+register for Q-SE 2022 and present the paper.  Authors and participants must register through the main conference website: [Registration for ICSE 2022](https://conf.researchr.org/attending/icse-2022/registration).
 
 ### Previous Series
 
